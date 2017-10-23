@@ -83,3 +83,13 @@ div {
   border-width: 3px;
   border-style: solid;
 }
+
+.btn-small-3 {
+  text-decoration: none;
+  background-color: #f33;
+  color: #fff;
+  padding: .7em;
+  font-size: .87rem;
+  border-radius: 8px;
+  border-width: 3px;
+}
