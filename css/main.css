@@ -14,6 +14,7 @@ div {
 
 .btn {
   text-decoration: none;
+  display: inline-block;
   background-color: #333;
   color: #fff;
   padding: .75em;
@@ -133,4 +134,61 @@ div {
   font-size: 1.4rem;
   border-radius: 8px;
   border-width: 3px;
+}
+
+
+
+
+.btn:hover {
+  background-color: #000;
+}
+
+.btn-subtle:hover {
+  background-color: #666;
+}
+
+.btn-ghost:hover {
+  background-color: #666;
+  border-color: #666;
+  color: #fff;
+}
+
+.btn-warning:hover {
+  background-color: #933;
+}
+
+.btn-small:hover {
+  background-color: #000;
+}
+
+.btn-small-1:hover {
+  background-color: #666;
+}
+
+.btn-small-2:hover {
+  background-color: #666;
+  border-color: #666;
+  color: #fff;
+}
+
+.btn-small-3:hover {
+  background-color: #933;
+}
+
+.btn-big:hover {
+  background-color: #000;
+}
+
+.btn-big-1:hover {
+  background-color: #666;
+}
+
+.btn-big-2:hover {
+  background-color: #666;
+  border-color: #666;
+  color: #fff;
+}
+
+.btn-big-3:hover {
+  background-color: #933;
 }
