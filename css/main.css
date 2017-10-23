@@ -124,3 +124,13 @@ div {
   border-width: 3px;
   border-style: solid;
 }
+
+.btn-big-3 {
+  text-decoration: none;
+  background-color: #f33;
+  color: #fff;
+  padding: .7em;
+  font-size: 1.4rem;
+  border-radius: 8px;
+  border-width: 3px;
+}
