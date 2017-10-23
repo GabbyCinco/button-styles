@@ -103,3 +103,13 @@ div {
   border-radius: 8px;
   border-width: 3px;
 }
+
+.btn-big-1 {
+  text-decoration: none;
+  background-color: #ccc;
+  color: #fff;
+  padding: .7em;
+  font-size: 1.4rem;
+  border-radius: 8px;
+  border-width: 3px;
+}
