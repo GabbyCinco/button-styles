@@ -52,3 +52,13 @@ div {
   border-radius: 8px;
   border-width: 3px;
 }
+
+.btn-small {
+  text-decoration: none;
+  background-color: #333;
+  color: #fff;
+  padding: .7em;
+  font-size: .87rem;
+  border-radius: 8px;
+  border-width: 3px;
+}
