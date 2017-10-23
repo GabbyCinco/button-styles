@@ -72,3 +72,14 @@ div {
   border-radius: 8px;
   border-width: 3px;
 }
+
+.btn-small-2 {
+  text-decoration: none;
+  background-color: #fff;
+  color: #000;
+  padding: .7em;
+  font-size: .87rem;
+  border-radius: 8px;
+  border-width: 3px;
+  border-style: solid;
+}
